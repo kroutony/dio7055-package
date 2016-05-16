@@ -1,8 +1,11 @@
 {
   "name": "dio7055",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A node.js module for dio7055",
   "main": "./lib/dio7055.js",
+  "dependencies": {
+    "serialport": ">= 1.2.5"
+  },
   "directories": {
     "doc": "doc",
     "test": "test"

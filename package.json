@@ -1,6 +1,6 @@
 {
   "name": "dio7055",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A node.js module for dio7055",
   "main": "./lib/dio7055.js",
   "dependencies": {

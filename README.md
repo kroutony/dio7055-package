@@ -1,5 +1,14 @@
-A node.js package for DIO7055 module
+# A node.js package for DIO7055 module
 
+## System Requirement
+In order to have dependency 'serialport' work.
+
+Firstly,please read https://github.com/voodootikigod/node-serialport/blob/master/README.md.
+
+## Installation Instructions
+```
+npm install dio7055
+```
 ## Initial parameters
 ```
 var dio=new Dio7055(port,baudrate,timeout)

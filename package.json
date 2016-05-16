@@ -1,0 +1,26 @@
+{
+  "name": "dio7055",
+  "version": "0.0.5",
+  "description": "A node.js module for dio7055",
+  "main": "./lib/dio7055.js",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kroutony/dio7055-package.git"
+  },
+  "keywords": [
+    "dio7055","dio"
+  ],
+  "author": "kroutony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kroutony/dio7055-package/issues"
+  },
+  "homepage": "https://github.com/kroutony/dio7055-package#readme"
+}
